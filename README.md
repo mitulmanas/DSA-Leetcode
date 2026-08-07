@@ -8,12 +8,14 @@ All the DSA problems from Leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
