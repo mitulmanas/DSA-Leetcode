@@ -7,6 +7,7 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -15,11 +16,13 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -29,4 +32,12 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
