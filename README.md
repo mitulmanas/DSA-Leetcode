@@ -11,6 +11,7 @@ All the DSA problems from Leetcode
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
