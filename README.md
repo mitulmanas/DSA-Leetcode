@@ -15,6 +15,7 @@ All the DSA problems from Leetcode
 | [0485-max-consecutive-ones](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@ All the DSA problems from Leetcode
 | ------- |
 | [0136-single-number](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
