@@ -19,6 +19,7 @@ All the DSA problems from Leetcode
 | [0704-binary-search](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mitulmanas/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ All the DSA problems from Leetcode
 | [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mitulmanas/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mitulmanas/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
