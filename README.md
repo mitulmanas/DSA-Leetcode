@@ -7,6 +7,7 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ All the DSA problems from Leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -79,4 +81,8 @@ All the DSA problems from Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mitulmanas/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
